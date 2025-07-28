@@ -83,9 +83,3 @@ After classification, another model compares the input image with a sample datab
 
 Features are pre-saved using a `pickle` file (`image_db.pkl`) to avoid recomputation.
 
----
-
-💡 SAMPLE USAGE (Python)
-=========================
-```python
-image_path = "my_
