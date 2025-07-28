@@ -1,0 +1,10 @@
+tensorflow==2.13.0
+keras==2.13.1
+opencv-python==4.9.0.80
+Pillow==10.3.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+tensorflow-hub==0.16.1
+tensorflow-addons==0.23.0
+joblib==1.4.2
